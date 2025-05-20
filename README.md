@@ -1,4 +1,4 @@
 # first-project
 this is my first git project
 <hr>
-Author(sanyam kumbhar);
+Author(sanyam kumbhar)of this repo;
